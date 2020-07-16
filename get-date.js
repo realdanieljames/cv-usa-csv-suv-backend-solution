@@ -1,3 +1,6 @@
+const getDate = function(row) {
+  return row[3]
+}
 
 
 

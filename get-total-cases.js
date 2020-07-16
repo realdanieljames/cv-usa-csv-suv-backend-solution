@@ -1,7 +1,6 @@
-
-
-
-
+const getTotalCases = function(row) {
+  return row[4]
+}
 
 
 
